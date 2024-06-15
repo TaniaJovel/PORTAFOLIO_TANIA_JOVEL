@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.tamano_tipo_f{
+	width: 1894 !important;
+	height: 300px !important;
+	
+	
+}
+.centrar{
+text-align: center !important;
+	  margin-left: auto;
+  margin-right: auto;
+}
+
+.bloque{
+	width: 90% !important;
+	height: 700px !important;
+		 margin-left: auto;
+  margin-right: auto;
+}
+
+body { background-color: #212121; }
+.bloque2{
+	height: 300px!important;
+}
+
+.tamano_proyecto{
+	
+	width: 92% !important;
+	 margin-left: auto;
+  margin-right: auto;
+}
+
+.tamano_proyecto2{
+	
+	width: 98% !important;
+	height: 390px !important;
+}
+
+.tamano_foto{
+	width: 500px !important;
+	height: 300px !important;
+}
+
+.tamano_foto2{
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.color{
+	
+	
+}
+
+.color2{
+
+	 margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.color3{
+	
+	
+	 margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.color4{
+	
+	width: 94%  !important;
+	height: 325px !important;
+	margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.color5{
+	background:#E414B6  !important;
+	
+}
+
+.ver{
+
+	
+}
+
+.ver2{
+
+}
+
+.ver3{
+
+	
+}
+
+.ver4{
+	
+}
+
+.ver5{
+	
+}
+
+
+.ver7{
+	
+	margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.ver8{
+	
+	margin-left: auto !important;
+  margin-right: auto !important;
+}
+.foto_tipo{
+	height: 280px  !important;
+	
+}
+
+.vide{
+	width: 92%   !important;
+	 
+		
+}
+
+.M{
+	width: 700px   !important;
+	 
+		
+}
+
+
+@media (max-width:420px){
+ .E{
+	margin-bottom: 330px   !important;
+	 
+		
+}
+
+.M{
+	width: 330px   !important;
+	 
+		
+}
+
+.TA{
+	width: 60%   !important;
+	height:900px  !important;
+	 
+		
+}
+
+
+.T{
+	width: 300px  !important;
+	
+	 
+		
+}
+
+}
